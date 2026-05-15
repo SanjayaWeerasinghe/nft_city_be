@@ -1,0 +1,7 @@
+node_modules/
+uploads/
+production.env
+utils/production.env
+test.js
+.env
+.DS_Store
